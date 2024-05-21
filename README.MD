@@ -1,4 +1,4 @@
-# Project List Collections ✨
+# Project Collections ✨
 
 ## Data Project
 
